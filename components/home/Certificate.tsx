@@ -2,7 +2,6 @@
 
 import { motion } from "framer-motion"
 import data from "../../data.json"
-import { Badge } from "@/components/ui/badge"
 import BlurText from "../Animasi/BlurText"
 
 interface Certificate {

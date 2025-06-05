@@ -1,5 +1,3 @@
-import { Card, CardContent } from "@/components/ui/card"
-import { ScrollArea, ScrollBar } from "@/components/ui/scroll-area"
 import data from "../../data.json"
 export default function HorizontalCards() {
 

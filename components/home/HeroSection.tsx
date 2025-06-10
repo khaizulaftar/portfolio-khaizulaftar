@@ -41,7 +41,7 @@ export default function HeroSection() {
                     </div>
                     <div className="flex flex-col md:flex-row items-center gap-4">
                         <Badge className="bg-blue-500">Open To Work</Badge>
-                        <div className="w-px h-8 bg-gray-300" />
+                        <div className="w-px h-8 bg-gray-300 hidden md:block"/>
                         <div className="flex gap-2">
                             <Link href="https://www.linkedin.com/in/khaizulaftar/" target="_blank" rel="noopener noreferrer">
                                 <Tooltip>
@@ -86,7 +86,7 @@ export default function HeroSection() {
                         </div>
                     </div>
                 </motion.div>
-                <div className="max-w-lg mx-auto mt-24">
+                <div className="max-w-lg mx-auto mt-12 md:mt-24">
                     <BlurText
                         text="I create websites that work for your business"
                         delay={100}

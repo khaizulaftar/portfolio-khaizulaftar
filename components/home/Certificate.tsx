@@ -38,7 +38,7 @@ export default function Certificate() {
                         damping: 15,
                         mass: 0.5
                     }}
-                    className="overflow-hidden whitespace-nowrap mt-6">
+                    className="overflow-hidden whitespace-nowrap mt-6 overflow-x-scroll" style={{scrollbarWidth:"none"}}>
                     <div className="inline-block animate-marquee">
                         {Data.map((v, i) => (
                             <img key={i} src={v.image} className="inline-block w-[300] h-full mx-2 rounded-2xl p-2 bg-white" />

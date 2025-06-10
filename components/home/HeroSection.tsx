@@ -36,7 +36,7 @@ export default function HeroSection() {
                         </Avatar>
                         <div>
                             <p className="font-semibold text-md">Khaizul Aftar</p>
-                            <p className="text-gray-600 text-sm">Web & Android Developer</p>
+                            <p className="text-gray-600 text-sm">Web Developer</p>
                         </div>
                     </div>
                     <div className="flex flex-col md:flex-row items-center gap-4">
@@ -88,7 +88,7 @@ export default function HeroSection() {
                 </motion.div>
                 <div className="max-w-lg mx-auto mt-24">
                     <BlurText
-                        text="I build web and mobile apps that work as hard as you do"
+                        text="I create websites that work for your business"
                         delay={100}
                         animateBy="words"
                         direction="top"
@@ -104,7 +104,7 @@ export default function HeroSection() {
                             damping: 15,
                             mass: 0.5
                         }}
-                        className="max-w-sm mx-auto text-gray-500 text-center mt-6">I develop websites and apps that engage users and deliver great user experiences</motion.p>
+                        className="max-w-sm mx-auto text-gray-500 text-center mt-6">I develop websites that engage users and deliver great user experiences</motion.p>
                     <motion.div
                         initial={{ y: 300, opacity: 0 }}
                         animate={{

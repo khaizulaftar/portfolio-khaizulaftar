@@ -28,20 +28,19 @@ export default function HeroSection() {
                         mass: 0.5
                     }}
                     className="flex flex-col md:flex-row justify-between items-center md:gap-0 gap-4 mt-12 md:mt-6">
-                    <div
-                        className="flex flex-col md:flex-row items-center text-center md:text-start gap-4">
-                        <Avatar className="md:w-15 md:h-15 w-25 h-25">
-                            <AvatarImage src="/images/profile-cover.jpeg" className="object-cover"/>
-                            <AvatarFallback>CN</AvatarFallback>
-                        </Avatar>
+                    <div className="flex flex-col md:flex-row items-center text-center md:text-start gap-4">
+                        <div className="relative">
+                            <img className="object-cover w-16 h-16 rounded-full ring-2 ring-gray-200 dark:ring-gray-600" src="/images/profile-cover.jpeg" alt="" />
+                            <span className="absolute bottom-0 right-0 w-3 h-3 rounded-full bg-emerald-500 ring-1 ring-white"></span>
+                        </div>
                         <div>
                             <p className="font-semibold text-md">Khaizul Aftar</p>
-                            <p className="text-gray-600 text-sm">Web Developer</p>
+                            <p className="text-gray-600 text-sm">Full-Stack Web Developer</p>
                         </div>
                     </div>
                     <div className="flex flex-col md:flex-row items-center gap-4">
                         <Badge className="bg-blue-500">Open To Work</Badge>
-                        <div className="w-px h-8 bg-gray-300 hidden md:block"/>
+                        <div className="w-px h-8 bg-gray-300 hidden md:block" />
                         <div className="flex gap-2">
                             <Link href="https://www.linkedin.com/in/khaizulaftar/" target="_blank" rel="noopener noreferrer">
                                 <Tooltip>

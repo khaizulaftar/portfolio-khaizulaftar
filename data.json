@@ -1,0 +1,190 @@
+{
+    "Clients": [
+        {
+            "image": "/images/clients/design-client-1.png"
+        },
+        {
+            "image": "/images/clients/design-client-2.png"
+        }
+    ],
+    "Skill": [
+        {
+            "image": "https://img.icons8.com/color/48/flutter.png",
+            "title": "flutter",
+            "descripion": "UI framework for building natively compiled apps for all platforms from one codebase",
+            "persen": "80"
+        },
+        {
+            "image": "https://img.icons8.com/color/48/dart.png",
+            "title": "dart",
+            "descripion": "client-optimized programming language used to develop applications with Flutter",
+            "persen": "90"
+        },
+        {
+            "image": "https://img.icons8.com/color/100/javascript--v1.png",
+            "title": "JavaScript",
+            "descripion": "programming language for adding interactivity to websites",
+            "persen": "98"
+        },
+        {
+            "image": "https://img.icons8.com/color/100/typescript.png",
+            "title": "TypeScript",
+            "descripion": "superset of JavaScript with static typing and modern features",
+            "persen": "95"
+        },
+        {
+            "image": "https://img.icons8.com/color/100/kotlin.png",
+            "title": "Kotlin",
+            "descripion": "modern programming language used mainly for Android development",
+            "persen": "80"
+        },
+        {
+            "image": "https://img.icons8.com/color/48/android-studio--v3.png",
+            "title": "Jetpack Compose",
+            "descripion": "declarative UI toolkit for building Android apps using Kotlin",
+            "persen": "80"
+        },
+        {
+            "image": "https://img.icons8.com/fluency/100/node-js.png",
+            "title": "Node.js",
+            "descripion": "JavaScript runtime for building server-side applications",
+            "persen": "70"
+        },
+        {
+            "image": "https://img.icons8.com/officel/100/react.png",
+            "title": "React.js",
+            "descripion": "JavaScript library for building user interfaces with components",
+            "persen": "98"
+        },
+        {
+            "image": "https://img.icons8.com/fluency/100/nextjs.png",
+            "title": "Next.js",
+            "descripion": "React framework for fullstack web apps with SSR and SSG support",
+            "persen": "100"
+        },
+        {
+            "image": "https://img.icons8.com/color/100/mysql-logo.png",
+            "title": "MySQL",
+            "descripion": "popular open-source relational database management system",
+            "persen": "90"
+        },
+        {
+            "image": "https://img.icons8.com/color/100/html-5.png",
+            "title": "HTML",
+            "descripion": "markup language used to structure web pages",
+            "persen": "100"
+        },
+        {
+            "image": "https://img.icons8.com/color/100/css3.png",
+            "title": "CSS",
+            "descripion": "style sheet language for designing the look of web pages",
+            "persen": "100"
+        },
+        {
+            "image": "https://img.icons8.com/color/100/tailwindcss.png",
+            "title": "Tailwind CSS",
+            "descripion": "Lutility-first CSS framework for fast, responsive design",
+            "persen": "98"
+        },
+        {
+            "image": "https://img.icons8.com/color/48/bootstrap--v2.png",
+            "title": "Bootstrap",
+            "descripion": "CSS framework for building responsive and consistent UIs",
+            "persen": "95"
+        },
+        {
+            "image": "https://img.icons8.com/color/100/git.png",
+            "title": "Git",
+            "descripion": "version control system for tracking code changes",
+            "persen": "90"
+        },
+        {
+            "image": "https://img.icons8.com/color/100/figma--v1.png",
+            "title": "Figma",
+            "descripion": "cloud-based UI/UX design and prototyping tool",
+            "persen": "80"
+        }
+    ],
+    "projocts": [
+        {
+            "image": "/images/Frame-1.png",
+            "icon": "/images/Logo-Traveljoy.png",
+            "title": "Traveljoy",
+            "description": "Multiplstform tourism themed application with itinerary features with AI developed using flutter",
+            "link": "https://github.com/BEKUP-CAPSTONE/Traveljoy"
+        },
+        {
+            "image": "/images/Frame-2.png",
+            "icon": "/images/Logo-TaskEase.png",
+            "title": "TaskEase",
+            "description": "Android scheduling and reminder application developed using Kotlin",
+            "link": "https://github.com/khaizulaftar/task_ease_umkm"
+        },
+        {
+            "image": "/images/Frame-3.png",
+            "icon": "/images/Logo-SikoKebab.png",
+            "title": "Siko Kebab",
+            "description": "Building a fullstack web application using Next.js, Tailwind CSS, and MySQL for an Income and Inventory Reporting System",
+            "link": ""
+        }
+    ],
+    "Certificate":[
+        {
+            "image":"/images/certificate/1.jpg"
+        },
+        {
+            "image":"/images/certificate/2.jpg"
+        },
+        {
+            "image":"/images/certificate/3.jpg"
+        }
+        ,
+        {
+            "image":"/images/certificate/3.jpg"
+        }
+        ,
+        {
+            "image":"/images/certificate/4.jpg"
+        }
+        ,
+        {
+            "image":"/images/certificate/5.jpg"
+        }
+        ,
+        {
+            "image":"/images/certificate/6.jpg"
+        }
+        ,
+        {
+            "image":"/images/certificate/7.jpg"
+        }
+        ,
+        {
+            "image":"/images/certificate/8.jpg"
+        }
+        ,
+        {
+            "image":"/images/certificate/9.jpg"
+        }
+        ,
+        {
+            "image":"/images/certificate/10.jpg"
+        }
+        ,
+        {
+            "image":"/images/certificate/11.jpg"
+        }
+        ,
+        {
+            "image":"/images/certificate/12.jpg"
+        }
+        ,
+        {
+            "image":"/images/certificate/13.jpg"
+        }
+        ,
+        {
+            "image":"/images/certificate/14.jpg"
+        }
+    ]
+}

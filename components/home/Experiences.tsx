@@ -85,9 +85,9 @@ export default function Experineces() {
                             <ul className="mt-6 list-disc ml-6 text-gray-900">
                                 <li>Responsible for testing and evaluating the quality of Dicoding classes.</li>
                                 <li>Providing detailed feedback to ensure improvements and optimal class quality standards.</li>
-                                <li>CET Wave 1 - Reviewed the "Belajar Dasar Pemrograman JavaScript" course.</li>
-                                <li>CET Wave 2 - Reviewed the "Belajar Fundamental Aplikasi Android" course.</li>
-                                <li>CET Wave 3 - Reviewed the "Belajar Membuat Aplikasi Android Dengan Jetpack Compose" course.</li>
+                                <li>CET Wave 1 - Reviewed the &quot;Belajar Dasar Pemrograman JavaScript&quot; course.</li>
+                                <li>CET Wave 2 - Reviewed the &quot;Belajar Fundamental Aplikasi Android&quot; course.</li>
+                                <li>CET Wave 3 - Reviewed the &quot;Belajar Membuat Aplikasi Android Dengan Jetpack Compose&quot; course.</li>
                             </ul>
                         </motion.div>
                     </div>
@@ -133,8 +133,8 @@ export default function Experineces() {
                             <p className="text-gray-500">July 2025 - November 2025 · 5 months</p>
                             <p className="text-gray-500">Indonesia</p>
                             <ul className="mt-6 list-disc ml-6 text-gray-900">
-                                <li>Complete the program with “ahead of schedule” status, Achieve 100% progress in all classes, Complete all assignments and Attend all team meetings, ILT-SS, ILT-FL, consultation sessions.</li>
-                                <li>Creating a capstone project application with a team called "Traveljoy" with the theme "Inovasi Teknologi untuk Digitalisasi Pariwisata Indonesia".</li>
+                                <li>Complete the program with &quot;ahead of schedule&quot; status, Achieve 100% progress in all classes, Complete all assignments and Attend all team meetings, ILT-SS, ILT-FL, consultation sessions.</li>
+                                <li>Creating a capstone project application with a team called &quot;Traveljoy&quot; with the theme &quot;Inovasi Teknologi untuk Digitalisasi Pariwisata Indonesia&quot;.</li>
                             </ul>
                         </motion.div>
                     </div>
@@ -180,8 +180,8 @@ export default function Experineces() {
                             <p className="text-gray-500">January 2025 - May 2025 · 5 months</p>
                             <p className="text-gray-500">Indonesia</p>
                             <ul className="mt-6 list-disc ml-6 text-gray-900">
-                                <li>Completed Dicoding Bootcamp Batch 5 Android Developer with "ahead of schedule" status, Achieve 100% progress in all classes, Completed all assignments and Attended all Technical Briefings, Team Meetings, Capstone Briefings, ILT-SS, ILT-FL, Consultation Sessions, Dicoding Expert Sessions.</li>
-                                <li>Create an individual capstone project application called "TaskEase" with the theme "Membangun Ekosistem Digital untuk UMKM".</li>
+                                <li>Completed Dicoding Bootcamp Batch 5 Android Developer with &quot;ahead of schedule&quot; status, Achieve 100% progress in all classes, Completed all assignments and Attended all Technical Briefings, Team Meetings, Capstone Briefings, ILT-SS, ILT-FL, Consultation Sessions, Dicoding Expert Sessions.</li>
+                                <li>Create an individual capstone project application called &quot;TaskEase&quot; with the theme &quot;Membangun Ekosistem Digital untuk UMKM&quot;.</li>
                             </ul>
                         </motion.div>
                     </div>
